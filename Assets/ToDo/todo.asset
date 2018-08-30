@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33714207ad0202c419142573e6e74a38, type: 3}
+  m_Name: todo
+  m_EditorClassIdentifier: 
+  Entries:
+  - Text: " Implemen a save and load functionality. Links below.\r"
+    Note: 
+    Tag: TODO
+    File: C:\Users\Public\Documents\Unity Projects\Unity Project\Assets\RTS_Camera\Demo\Main.cs
+    Line: 20
+    PathToShow: Assets/RTS_Camera/Demo/Main.cs(20)
+  - Text: ": Error check all the things. \r"
+    Note: 
+    Tag: TODO
+    File: C:\Users\Public\Documents\Unity Projects\Unity Project\Assets\Scripts\Localization.cs
+    Line: 42
+    PathToShow: Assets/Scripts/Localization.cs(42)
+  - Text: " Box select doesn't select the correct objects with BoxCastAll, even though
+      a box is correctly drawn with the mouse. May have to do with the inversion of
+      screen space and GUI space.\r"
+    Note: 
+    Tag: BUG
+    File: C:\Users\Public\Documents\Unity Projects\Unity Project\Assets\Scripts\MouseManager.cs
+    Line: 41
+    PathToShow: Assets/Scripts/MouseManager.cs(41)
+  - Text: ": possibly do the same for rotational part\r"
+    Note: 
+    Tag: TODO
+    File: C:\Users\Public\Documents\Unity Projects\Unity Project\Assets\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs
+    Line: 399
+    PathToShow: Assets/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs(399)
+  TagsList:
+  - TODO
+  - BUG

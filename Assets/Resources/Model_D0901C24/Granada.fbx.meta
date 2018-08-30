@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 9014ef555f69ac84b9ff13c9cfdd2fe3
+timeCreated: 1518605894
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Anillo
+    100002: Cabezal
+    100004: Cilindro
+    100006: Cilindro_1
+    100008: Cilindro_2
+    100010: Cilindro_3
+    100012: Cinema_4D_Editor
+    100014: Cubo
+    100016: Cuerpo
+    100018: Gancho
+    100020: //RootNode
+    100022: Palanca
+    100024: Redondeado_1
+    100026: Redondeado_1_2
+    100028: Redondeado_2
+    100030: Redondeado_2_2
+    100032: "Simetr\xEDa"
+    100034: "Subdivisi\xF3n_Superficie"
+    100036: "Subdivisi\xF3n_Superficie_2"
+    100038: Tapa_1
+    100040: Tapa_1_2
+    100042: Tapa_2
+    100044: Tapa_2_2
+    400000: Anillo
+    400002: Cabezal
+    400004: Cilindro
+    400006: Cilindro_1
+    400008: Cilindro_2
+    400010: Cilindro_3
+    400012: Cinema_4D_Editor
+    400014: Cubo
+    400016: Cuerpo
+    400018: Gancho
+    400020: //RootNode
+    400022: Palanca
+    400024: Redondeado_1
+    400026: Redondeado_1_2
+    400028: Redondeado_2
+    400030: Redondeado_2_2
+    400032: "Simetr\xEDa"
+    400034: "Subdivisi\xF3n_Superficie"
+    400036: "Subdivisi\xF3n_Superficie_2"
+    400038: Tapa_1
+    400040: Tapa_1_2
+    400042: Tapa_2
+    400044: Tapa_2_2
+    2000000: Cinema_4D_Editor
+    2100000: cromo
+    2100002: pintura.1
+    2100004: cabezal
+    2100006: cuerpo
+    2300000: Anillo
+    2300002: Cilindro
+    2300004: Cilindro_1
+    2300006: Cilindro_2
+    2300008: Cilindro_3
+    2300010: Cubo
+    2300012: Gancho
+    2300014: Redondeado_1
+    2300016: Redondeado_1_2
+    2300018: Redondeado_2
+    2300020: Redondeado_2_2
+    2300022: Tapa_1
+    2300024: Tapa_1_2
+    2300026: Tapa_2
+    2300028: Tapa_2_2
+    3300000: Anillo
+    3300002: Cilindro
+    3300004: Cilindro_1
+    3300006: Cilindro_2
+    3300008: Cilindro_3
+    3300010: Cubo
+    3300012: Gancho
+    3300014: Redondeado_1
+    3300016: Redondeado_1_2
+    3300018: Redondeado_2
+    3300020: Redondeado_2_2
+    3300022: Tapa_1
+    3300024: Tapa_1_2
+    3300026: Tapa_2
+    3300028: Tapa_2_2
+    4300000: Anillo
+    4300002: Redondeado_1
+    4300004: Tapa_1
+    4300006: Redondeado_2
+    4300008: Tapa_2
+    4300010: Cilindro_1
+    4300012: Gancho
+    4300014: Redondeado_1_2
+    4300016: Tapa_1_2
+    4300018: Redondeado_2_2
+    4300020: Tapa_2_2
+    4300022: Cubo
+    4300024: Cilindro
+    4300026: Cilindro_2
+    4300028: Cilindro_3
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
